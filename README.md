@@ -2,6 +2,8 @@
 
 This is a Node.js wrapper for [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)'s ORBextractor class.
 
+- ![NPM Version](https://img.shields.io/npm/v/orb3-extractor.svg)
+
 ## Installation
 
 ```bash
