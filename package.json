@@ -1,0 +1,22 @@
+{
+  "name": "orb3-extractor",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for ORB-SLAM3's ORBextractor class.",
+  "main": "src/index.js",
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "build": "node-gyp configure build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynMoe/node-orb3-extractor.git"
+  },
+  "author": "Lyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LynMoe/node-orb3-extractor/issues"
+  },
+  "homepage": "https://github.com/LynMoe/node-orb3-extractor#readme",
+  "dependencies": {
+  }
+}
