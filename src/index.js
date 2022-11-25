@@ -15,7 +15,7 @@ const addon = require("../build/Release/module")
  * @returns {Array<Array<Number>>} return.descriptors Array of descriptors
  * @example
  * const orb3 = require('orb3')
- * const result = orb3.computeORB3('./image.jpg', {
+ * const result = orb3('./image.jpg', {
  *   nFeatures: 1000,
  *   scaleFactor: 1.2,
  *   nLevels: 8,

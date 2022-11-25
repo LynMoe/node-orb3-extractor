@@ -25,7 +25,7 @@ npm install orb3-extractor
 
 ```js
 const orb3 = require('orb3')
-const result = orb3.computeORB3('./image.jpg', {
+const result = orb3('./image.jpg', {
   nFeatures: 1000,
   scaleFactor: 1.2,
   nLevels: 8,
